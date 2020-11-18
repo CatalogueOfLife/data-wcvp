@@ -1,0 +1,100 @@
+kew_id|family|genus|species|infraspecies|taxon_name|authors|rank|taxonomic_status|accepted_kew_id|accepted_name|accepted_authors|parent_kew_id|parent_name|parent_authors|reviewed
+338-1|Acanthaceae|Acanthodium|||Acanthodium|Delile|GENUS|Synonym|427-1|Blepharis|Juss.||||In review
+44787-1|Acanthaceae|Acanthodium|angustum||Acanthodium angustum|Nees|SPECIES|Homotypic_Synonym|46469-1|Blepharis angusta|(Nees) T.Anderson||||In review
+44788-1|Acanthaceae|Acanthodium|capense||Acanthodium capense|(L.f.) Nees|SPECIES|Homotypic_Synonym|46487-1|Blepharis capensis|(L.f.) Pers.||||In review
+44789-1|Acanthaceae|Acanthodium|carduifolium||Acanthodium carduifolium|(L.f.) Nees|SPECIES|Homotypic_Synonym|44830-1|Acanthopsis carduifolia|(L.f.) Schinz||||In review
+44790-1|Acanthaceae|Acanthodium|delilii||Acanthodium delilii|H.Buek|SPECIES|Synonym|46503-1|Blepharis edulis|(Forssk.) Pers.||||In review
+44792-1|Acanthaceae|Acanthodium|diversispinum||Acanthodium diversispinum|Nees|SPECIES|Homotypic_Synonym|46501-1|Blepharis diversispina|(Nees) C.B.Clarke||||In review
+44793-1|Acanthaceae|Acanthodium|furcatum||Acanthodium furcatum|(L.f.) Nees|SPECIES|Homotypic_Synonym|46514-1|Blepharis furcata|(L.f.) Pers.||||In review
+44794-1|Acanthaceae|Acanthodium|glabrum||Acanthodium glabrum|Nees|SPECIES|Homotypic_Synonym|77177568-1|Acanthopsis glabra|(Nees) H.M.Steyn||||In review
+44795-1|Acanthaceae|Acanthodium|glaucum||Acanthodium glaucum|Nees|SPECIES|Homotypic_Synonym|44832-1|Acanthopsis glauca|(Nees) Schinz||||In review
+44797-1|Acanthaceae|Acanthodium|grossum||Acanthodium grossum|Nees|SPECIES|Homotypic_Synonym|46524-1|Blepharis grossa|(Nees) T.Anderson||||In review
+44796-1|Acanthaceae|Acanthodium|grossum||Acanthodium grossum|Wight|SPECIES|Synonym|46587-1|Blepharis scindica|Stocks ex T.Anderson||||In review
+44799-1|Acanthaceae|Acanthodium|hirtinervium||Acanthodium hirtinervium|Nees|SPECIES|Homotypic_Synonym|46530-1|Blepharis hirtinervia|(Nees) T.Anderson||||In review
+44800-1|Acanthaceae|Acanthodium|hirtum||Acanthodium hirtum|Hochst. ex Nees|SPECIES|Synonym|46547-1|Blepharis linariifolia|Pers.||||In review
+44802-1|Acanthaceae|Acanthodium|hoffmannseggianum||Acanthodium hoffmannseggianum|Nees|SPECIES|Homotypic_Synonym|44833-1|Acanthopsis hoffmannseggiana|(Nees) C.B.Clarke||||In review
+44803-1|Acanthaceae|Acanthodium|macrum||Acanthodium macrum|Nees|SPECIES|Homotypic_Synonym|1017541-1|Blepharis macra|(Nees) Vollesen||||In review
+44804-1|Acanthaceae|Acanthodium|marginatum||Acanthodium marginatum|Nees|SPECIES|Homotypic_Synonym|46555-1|Blepharis marginata|(Nees) C.B.Clarke||||In review
+44805-1|Acanthaceae|Acanthodium|plumulosum||Acanthodium plumulosum|E.Mey. ex Nees|SPECIES|Synonym|44834-1|Acanthopsis horrida|(Nees) Nees||||In review
+44806-1|Acanthaceae|Acanthodium|procumbens||Acanthodium procumbens|(L.f.) Nees|SPECIES|Homotypic_Synonym|46574-1|Blepharis procumbens|(L.f.) Pers.||||In review
+44807-1|Acanthaceae|Acanthodium|serrulatum||Acanthodium serrulatum|Nees|SPECIES|Homotypic_Synonym|46589-1|Blepharis serrulata|(Nees) Picalho & Hiern||||In review
+44809-1|Acanthaceae|Acanthodium|sinuatum||Acanthodium sinuatum|Nees|SPECIES|Homotypic_Synonym|46592-1|Blepharis sinuata|(Nees) C.B.Clarke||||In review
+44810-1|Acanthaceae|Acanthodium|spathulare||Acanthodium spathulare|Nees|SPECIES|Homotypic_Synonym|44837-1|Acanthopsis spathularis|(Nees) Schinz||||In review
+44811-1|Acanthaceae|Acanthodium|spicatum||Acanthodium spicatum|Nees|SPECIES|Synonym|52558-1|Nelsonia canescens|(Lam.) Spreng.||||In review
+44812-1|Acanthaceae|Acanthodium|spicatum||Acanthodium spicatum|Delile|SPECIES|Synonym|46503-1|Blepharis edulis|(Forssk.) Pers.||||In review
+44814-1|Acanthaceae|Acanthodium|squarrosum||Acanthodium squarrosum|Nees|SPECIES|Homotypic_Synonym|46597-1|Blepharis squarrosa|(Nees) T.Anderson||||In review
+339-1|Acanthaceae|Acanthodus|||Acanthodus|Raf.|GENUS|Synonym|344-1|Acanthus|L.||||In review
+340-1|Acanthaceae|Acanthopale|||Acanthopale|C.B.Clarke|GENUS|Accepted|||||||
+77098516-1|Acanthaceae|Acanthopale|aethiogermanica||Acanthopale aethiogermanica|Ensermu|SPECIES|Accepted||||340-1|Acanthopale|C.B.Clarke|
+44815-1|Acanthaceae|Acanthopale|albosetulosa||Acanthopale albosetulosa|C.B.Clarke|SPECIES|Synonym|44828-1|Acanthopale pubescens|(Lindau ex Engl.) C.B.Clarke||||In review
+44816-1|Acanthaceae|Acanthopale|azaleoides||Acanthopale azaleoides|C.B.Clarke|SPECIES|Synonym|44824-1|Acanthopale laxiflora|(Lindau) C.B.Clarke||||In review
+77153331-1|Acanthaceae|Acanthopale|breviceps||Acanthopale breviceps|(Benoist) Callm. & Phillipson|SPECIES|Accepted||||340-1|Acanthopale|C.B.Clarke|
+44817-1|Acanthaceae|Acanthopale|buchholzii||Acanthopale buchholzii|(Lindau) C.B.Clarke|SPECIES|Synonym|47979-1|Dischistocalyx grandifolius|C.B.Clarke||||In review
+44818-1|Acanthaceae|Acanthopale|cameronica||Acanthopale cameronica|Bremek.|SPECIES|Synonym|44821-1|Acanthopale decempedalis|C.B.Clarke||||In review
+44819-1|Acanthaceae|Acanthopale|confertiflora||Acanthopale confertiflora|(Lindau) C.B.Clarke|SPECIES|Accepted||||340-1|Acanthopale|C.B.Clarke|
+77153332-1|Acanthaceae|Acanthopale|cuneifolia||Acanthopale cuneifolia|(Benoist) Callm. & Phillipson|SPECIES|Accepted||||340-1|Acanthopale|C.B.Clarke|
+44820-1|Acanthaceae|Acanthopale|dalzielii||Acanthopale dalzielii|W.W.Sm.|SPECIES|Homotypic_Synonym|55635-1|Strobilanthes dalzielii|(W.W.Sm.) Benoist||||In review
+44821-1|Acanthaceae|Acanthopale|decempedalis||Acanthopale decempedalis|C.B.Clarke|SPECIES|Accepted||||340-1|Acanthopale|C.B.Clarke|
+77153333-1|Acanthaceae|Acanthopale|humblotii||Acanthopale humblotii|(Benoist) Callm. & Phillipson|SPECIES|Accepted||||340-1|Acanthopale|C.B.Clarke|
+44822-1|Acanthaceae|Acanthopale|jogensis||Acanthopale jogensis|Gilli|SPECIES|Synonym|55754-1|Strobilanthes jogensis|Gilli||||In review
+44823-1|Acanthaceae|Acanthopale|labordei||Acanthopale labordei|(H.Lév.) Hand.-Mazz.|SPECIES|Homotypic_Synonym|55762-1|Strobilanthes labordei|H.Lév.||||In review
+44824-1|Acanthaceae|Acanthopale|laxiflora||Acanthopale laxiflora|(Lindau) C.B.Clarke|SPECIES|Accepted||||340-1|Acanthopale|C.B.Clarke|
+44825-1|Acanthaceae|Acanthopale|longipilosa||Acanthopale longipilosa|(Mildbr.) Bremek.|SPECIES|Synonym|44828-1|Acanthopale pubescens|(Lindau ex Engl.) C.B.Clarke||||In review
+77092225-1|Acanthaceae|Acanthopale|macrocarpa||Acanthopale macrocarpa|Vollesen|SPECIES|Accepted||||340-1|Acanthopale|C.B.Clarke|
+44826-1|Acanthaceae|Acanthopale|madagascariensis||Acanthopale madagascariensis|(Baker) C.B.Clarke ex Bremek.|SPECIES|Accepted||||340-1|Acanthopale|C.B.Clarke|
+44827-1|Acanthaceae|Acanthopale|malasica||Acanthopale malasica|C.B.Clarke|SPECIES|Homotypic_Synonym|54293-1|Ruellia malasica|(C.B.Clarke) J.B.Imlay||||In review
+77153334-1|Acanthaceae|Acanthopale|perrieri||Acanthopale perrieri|(Benoist) Callm. & Phillipson|SPECIES|Accepted||||340-1|Acanthopale|C.B.Clarke|
+44828-1|Acanthaceae|Acanthopale|pubescens||Acanthopale pubescens|(Lindau ex Engl.) C.B.Clarke|SPECIES|Accepted||||340-1|Acanthopale|C.B.Clarke|
+77153335-1|Acanthaceae|Acanthopale|ramiflora||Acanthopale ramiflora|(Benoist) Callm. & Phillipson|SPECIES|Accepted||||340-1|Acanthopale|C.B.Clarke|
+44829-1|Acanthaceae|Acanthopale|tetrasperma||Acanthopale tetrasperma|(Champ.) Hand.-Mazz.|SPECIES|Homotypic_Synonym|55979-1|Strobilanthes tetrasperma|(Champ.) Druce||||In review
+342-1|Acanthaceae|Acanthopsis|||Acanthopsis|Harv.|GENUS|Accepted|||||||
+77148244-1|Acanthaceae|Acanthopsis|adamanticola||Acanthopsis adamanticola|H.M.Steyn|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+44830-1|Acanthaceae|Acanthopsis|carduifolia||Acanthopsis carduifolia|(L.f.) Schinz|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+44831-1|Acanthaceae|Acanthopsis|disperma||Acanthopsis disperma|Nees|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+77148246-1|Acanthaceae|Acanthopsis|dispermoides||Acanthopsis dispermoides|H.M.Steyn|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+77152050-1|Acanthaceae|Acanthopsis|dregeana||Acanthopsis dregeana|H.M.Steyn|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+77160506-1|Acanthaceae|Acanthopsis|dregeana|longispina|Acanthopsis dregeana subsp. longispina|H.M.Steyn|SUBSPECIES|Accepted||||77152050-1|Acanthopsis dregeana|H.M.Steyn|
+77152034-1|Acanthaceae|Acanthopsis|erosa||Acanthopsis erosa|H.M.Steyn|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+77177568-1|Acanthaceae|Acanthopsis|glabra||Acanthopsis glabra|(Nees) H.M.Steyn|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+77177570-1|Acanthaceae|Acanthopsis|glandulopalmata||Acanthopsis glandulopalmata|H.M.Steyn|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+44832-1|Acanthaceae|Acanthopsis|glauca||Acanthopsis glauca|(Nees) Schinz|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+44833-1|Acanthaceae|Acanthopsis|hoffmannseggiana||Acanthopsis hoffmannseggiana|(Nees) C.B.Clarke|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+44834-1|Acanthaceae|Acanthopsis|horrida||Acanthopsis horrida|(Nees) Nees|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+77177572-1|Acanthaceae|Acanthopsis|insueta||Acanthopsis insueta|H.M.Steyn|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+77148243-1|Acanthaceae|Acanthopsis|ludoviciana||Acanthopsis ludoviciana|H.M.Steyn|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+77177569-1|Acanthaceae|Acanthopsis|nitida||Acanthopsis nitida|H.M.Steyn|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+44835-1|Acanthaceae|Acanthopsis|scullyi||Acanthopsis scullyi|(S.Moore) Oberm.|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+44837-1|Acanthaceae|Acanthopsis|spathularis||Acanthopsis spathularis|(Nees) Schinz|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+77160507-1|Acanthaceae|Acanthopsis|tetragona||Acanthopsis tetragona|H.M.Steyn|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+77160508-1|Acanthaceae|Acanthopsis|tetragona|pedunculata|Acanthopsis tetragona subsp. pedunculata|H.M.Steyn|SUBSPECIES|Accepted||||77160507-1|Acanthopsis tetragona|H.M.Steyn|
+44838-1|Acanthaceae|Acanthopsis|trispina||Acanthopsis trispina|C.B.Clarke|SPECIES|Synonym|44834-1|Acanthopsis horrida|(Nees) Nees||||In review
+77148242-1|Acanthaceae|Acanthopsis|tuba||Acanthopsis tuba|H.M.Steyn|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+77148245-1|Acanthaceae|Acanthopsis|villosa||Acanthopsis villosa|H.M.Steyn|SPECIES|Accepted||||342-1|Acanthopsis|Harv.|
+893432-1|Acanthaceae|Acanthostelma|||Acanthostelma|Bidgood & Brummitt|GENUS|Synonym|331522-2|Crabbea|Harv.||||In review
+914763-1|Acanthaceae|Acanthostelma|thymifolium||Acanthostelma thymifolium|(Chiov.) Bidgood & Brummitt|SPECIES|Homotypic_Synonym|77078083-1|Crabbea thymifolia|(Chiov.) Thulin||||In review
+295939-2|Acanthaceae|Acanthura|||Acanthura|Lindau|GENUS|Synonym|30029079-2|Lepidagathis|Willd.||||In review
+1716-2|Acanthaceae|Acanthura|mattogrossensis||Acanthura mattogrossensis|Lindau|SPECIES|Synonym|52085-1|Lepidagathis riedeliana|Nees||||In review
+344-1|Acanthaceae|Acanthus|||Acanthus|L.|GENUS|Accepted|||||||
+77135232-1|Acanthaceae|Acanthus|albus||Acanthus albus|Debnath, B.K.Singh & P.Giri|SPECIES|Accepted||||344-1|Acanthus|L.|
+44840-1|Acanthaceae|Acanthus|arborescens||Acanthus arborescens|Panz.|SPECIES|Synonym|44841-1|Acanthus arboreus|Forssk.||||In review
+44841-1|Acanthaceae|Acanthus|arboreus||Acanthus arboreus|Forssk.|SPECIES|Accepted||||344-1|Acanthus|L.|
+77080276-1|Acanthaceae|Acanthus|austromontanus||Acanthus austromontanus|Vollesen|SPECIES|Accepted||||344-1|Acanthus|L.|
+44842-1|Acanthaceae|Acanthus|balcanicus||Acanthus balcanicus|Heywood & I.Richardson|SPECIES|Synonym|907838-1|Acanthus hungaricus|(Borbás) Baen.||||In review
+44843-1|Acanthaceae|Acanthus|barteri||Acanthus barteri|T.Anderson|SPECIES|Synonym|44894-1|Acanthus montanus|(Nees) T.Anderson||||In review
+44844-1|Acanthaceae|Acanthus|boissieri||Acanthus boissieri|Hausskn.|SPECIES|Unplaced|||||||
+44846-1|Acanthaceae|Acanthus|carduaceus||Acanthus carduaceus|Griff.|SPECIES|Accepted||||344-1|Acanthus|L.|
+44848-1|Acanthaceae|Acanthus|carduifolius||Acanthus carduifolius|L.f.|SPECIES|Homotypic_Synonym|44830-1|Acanthopsis carduifolia|(L.f.) Schinz||||In review
+44849-1|Acanthaceae|Acanthus|caroli-alexandri||Acanthus caroli-alexandri|Hausskn.|SPECIES|Accepted||||344-1|Acanthus|L.|
+44850-1|Acanthaceae|Acanthus|caudatus||Acanthus caudatus|Lindau|SPECIES|Accepted||||344-1|Acanthus|L.|
+44851-1|Acanthaceae|Acanthus|ciliaris||Acanthus ciliaris|Burm.f.|SPECIES|Synonym|46553-1|Blepharis maderaspatensis|(L.) B.Heyne ex Roth||||In review
+44852-1|Acanthaceae|Acanthus|cristatus||Acanthus cristatus|Rottler ex Nees|SPECIES|Synonym|51985-1|Lepidagathis cristata|Willd.||||In review
+44853-1|Acanthaceae|Acanthus|delilei||Acanthus delilei|Spreng.|SPECIES|Synonym|46503-1|Blepharis edulis|(Forssk.) Pers.||||In review
+44854-1|Acanthaceae|Acanthus|dioscoridis||Acanthus dioscoridis|L.|SPECIES|Accepted||||344-1|Acanthus|L.|
+920431-1|Acanthaceae|Acanthus|dioscoridis|brevicaulis|Acanthus dioscoridis var. brevicaulis|(Freyn) E.Hossain|VARIETY|Accepted||||44854-1|Acanthus dioscoridis|L.|
+920432-1|Acanthaceae|Acanthus|dioscoridis|perringii|Acanthus dioscoridis var. perringii|(Siehe) E.Hossain|VARIETY|Accepted||||44854-1|Acanthus dioscoridis|L.|
+44855-1|Acanthaceae|Acanthus|doloarin||Acanthus doloarin|Blanco|SPECIES|Synonym|44873-1|Acanthus ilicifolius|L.||||In review
+44856-1|Acanthaceae|Acanthus|dusenii||Acanthus dusenii|(Lindau) C.B.Clarke|SPECIES|Homotypic_Synonym|47059-1|Crossandrella dusenii|(Lindau) S.Moore||||In review
+44857-1|Acanthaceae|Acanthus|ebracteatus||Acanthus ebracteatus|Vahl|SPECIES|Accepted||||344-1|Acanthus|L.|
+949334-1|Acanthaceae|Acanthus|ebracteatus|ebarbatus|Acanthus ebracteatus subsp. ebarbatus|R.M.Barker|SUBSPECIES|Accepted||||44857-1|Acanthus ebracteatus|Vahl|
+20007763-1|Acanthaceae|Acanthus|ebracteatus|xiamenensis|Acanthus ebracteatus var. xiamenensis|(R.T.Zhang) C.Y.Wu & C.C.Hu|VARIETY|Synonym|44873-1|Acanthus ilicifolius|L.||||In review
+44858-1|Acanthaceae|Acanthus|edulis||Acanthus edulis|Forssk.|SPECIES|Homotypic_Synonym|46503-1|Blepharis edulis|(Forssk.) Pers.||||In review
