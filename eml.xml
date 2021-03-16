@@ -19,7 +19,7 @@
             <electronicMailAddress>info@kew.org</electronicMailAddress>
             <onlineUrl>https://www.kew.org/</onlineUrl>
         </creator>
-        <pubDate>2020-11-16</pubDate>
+        <pubDate>2021-03-16</pubDate>
         <language>en</language>
         <abstract>
             <para>The World Checklist of Vascular Plants (WCVP) is a global consensus view of all known vascular plant species (flowering plants, conifers, ferns, clubmosses and firmosses).</para>
@@ -49,8 +49,8 @@
     <additionalMetadata>
         <metadata>
             <gbif>
-                <dateStamp>2020-11-18T12:14:11Z</dateStamp>
-                <citation>WCVP (2020). World Checklist of Vascular Plants, version 2.0. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://wcvp.science.kew.org/ Retrieved 18 November 2020.</citation>        
+                <dateStamp>2021-03-16T06:37:11Z</dateStamp>
+                <citation>WCVP (2021). World Checklist of Vascular Plants, version 4.0. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://wcvp.science.kew.org/ Retrieved 16 March 2021.</citation>        
             </gbif>
         </metadata>
     </additionalMetadata>
